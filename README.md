@@ -18,3 +18,4 @@ Showing different product categories.<br>
 Showing Footbar which includes Links and a back to top bar.<br>
 
 ![Screenshot 2024-05-16 212231](https://github.com/Hardattsinh-Zala/Amazon-Clone/assets/169999776/aa881da4-7c2f-456a-abf6-5bcda90ef7fd)
+<h2>Thank You!</h2>
