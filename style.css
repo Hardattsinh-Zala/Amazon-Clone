@@ -1,8 +1,7 @@
 * {
-    margin: 0px;
-    padding: 0px;
-    border: border-box;
-    font-family: Arial;
+    margin: 0;
+    padding: 0;
+    font-family: "Arial";
 }
 body {
     background-color: rgb(230, 223, 223);
@@ -117,7 +116,7 @@ body {
 .menu p {
     display: inline;
     font-size: 0.8rem;
-    font-weight: 700px;
+    font-weight: 700;
     padding: 11px;
 }
 .panel span {
@@ -127,7 +126,7 @@ body {
     /*Hero*/
 .hero {
     height: 600px;
-    background-image: url("/Images/amazon\ home\ hero.jpg");
+    background-image: url("/Images/amazon home hero.jpg");
     background-size: cover;
     margin: 0 100px 0 100px;
 }
@@ -162,7 +161,7 @@ body {
 }
 .items div {
     height: 385px;
-    padding: 20px 0px 15px 0px;
+    padding: 20px 0 15px 0;
     width: 300px;
     margin: 20px 20px 0 0;
     background-color: white;
@@ -206,7 +205,7 @@ body {
     height: 100px;
     width: 130px;
     margin-top: 15px;
-    background-image: url("/Images/computer\ mice.jpg");
+    background-image: url("/Images/computer mice.jpg");
     background-size: cover;
 }
 .gaming #image4 {
@@ -287,7 +286,7 @@ body {
     height: 100px;
     width: 130px;
     margin-top: 15px;
-    background-image: url("/Images/Health\ and\ Beauty.jpg");
+    background-image: url("/Images/Health and Beauty.jpg");
     background-size: cover;
 }
 #home, #beauty{
@@ -306,21 +305,21 @@ body {
     height: 100px;
     width: 130px;
     margin-top: 15px;
-    background-image: url("/Images/Adeventure\ gear.jpg");
+    background-image: url("/Images/Adeventure gear.jpg");
     background-size: cover;
 }
 .dad #image3 {
     height: 100px;
     width: 130px;
     margin-top: 15px;
-    background-image: url("/Images/Unique\ finds.jpg");
+    background-image: url("/Images/Unique finds.jpg");
     background-size: cover;
 }
 .dad #image4 {
     height: 100px;
     width: 130px;
     margin-top: 15px;
-    background-image: url("/Images/Health\ &\ wellness.jpg");
+    background-image: url("/Images/Health & wellness.jpg");
     background-size: cover;
 }
 #adventure {
@@ -344,7 +343,7 @@ body {
     height: 270px;
     width: 270px;
     margin-top: 15px;
-    background-image: url("/Images/players\ paradise.jpg");
+    background-image: url("/Images/players paradise.jpg");
     background-size: cover;
 }
 /*Box 8*/
