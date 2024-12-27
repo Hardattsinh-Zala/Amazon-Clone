@@ -25,7 +25,7 @@ body {
     height: 40px;
     width: 110px;
     padding: 5px;
-    background-image: url("/Images/amazon_logo.png");
+    background-image: url("Images/amazon_logo.png");
     background-size: cover;
 }
     /*Box 2*/
@@ -126,7 +126,7 @@ body {
     /*Hero*/
 .hero {
     height: 600px;
-    background-image: url("/Images/amazon home hero.jpg");
+    background-image: url("Images/amazon home hero.jpg");
     background-size: cover;
     margin: 0 100px 0 100px;
 }
@@ -177,7 +177,7 @@ body {
     height: 100px;
     width: 130px;
     margin-top: 15px;
-    background-image: url("/Images/Headsets.jpg");
+    background-image: url("Images/Headsets.jpg");
     background-size: cover;
 }
 .items span {
@@ -198,21 +198,21 @@ body {
     height: 100px;
     width: 130px;
     margin-top: 15px;
-    background-image: url("/Images/Keyboards.jpg");
+    background-image: url("Images/Keyboards.jpg");
     background-size: cover;
 }
 .gaming #image3 {
     height: 100px;
     width: 130px;
     margin-top: 15px;
-    background-image: url("/Images/computer mice.jpg");
+    background-image: url("Images/computer mice.jpg");
     background-size: cover;
 }
 .gaming #image4 {
     height: 100px;
     width: 130px;
     margin-top: 15px;
-    background-image: url("/Images/Chairs.jpg");
+    background-image: url("Images/Chairs.jpg");
     background-size: cover;
 }
 /*Box 2*/
@@ -220,28 +220,28 @@ body {
     height: 100px;
     width: 130px;
     margin-top: 15px;
-    background-image: url("/Images/Jeans.jpg");
+    background-image: url("Images/Jeans.jpg");
     background-size: cover;
 }
 .shop #image2 {
     height: 100px;
     width: 130px;
     margin-top: 15px;
-    background-image: url("/Images/Tops.jpg");
+    background-image: url("Images/Tops.jpg");
     background-size: cover;
 }
 .shop #image3 {
     height: 100px;
     width: 130px;
     margin-top: 15px;
-    background-image: url("/Images/Dresses.jpg");
+    background-image: url("Images/Dresses.jpg");
     background-size: cover;
 }
 .shop #image4 {
     height: 100px;
     width: 130px;
     margin-top: 15px;
-    background-image: url("/Images/Shoes.jpg");
+    background-image: url("Images/Shoes.jpg");
     background-size: cover;
 }
 #tops {
@@ -257,7 +257,7 @@ body {
     height: 270px;
     width: 270px;
     margin-top: 15px;
-    background-image: url("/Images/PC.jpg");
+    background-image: url("Images/PC.jpg");
     background-size: cover;
 }
 /* Box 4*/
@@ -265,28 +265,28 @@ body {
     height: 100px;
     width: 130px;
     margin-top: 15px;
-    background-image: url("/Images/Dining.jpg");
+    background-image: url("Images/Dining.jpg");
     background-size: cover;
 }
 .refresh #image2 {
     height: 100px;
     width: 130px;
     margin-top: 15px;
-    background-image: url("/Images/Home.jpg");
+    background-image: url("Images/Home.jpg");
     background-size: cover;
 }
 .refresh #image3 {
     height: 100px;
     width: 130px;
     margin-top: 15px;
-    background-image: url("/Images/Kitchen.jpg");
+    background-image: url("Images/Kitchen.jpg");
     background-size: cover;
 }
 .refresh #image4 {
     height: 100px;
     width: 130px;
     margin-top: 15px;
-    background-image: url("/Images/Health and Beauty.jpg");
+    background-image: url("Images/Health and Beauty.jpg");
     background-size: cover;
 }
 #home, #beauty{
@@ -298,28 +298,28 @@ body {
     height: 100px;
     width: 130px;
     margin-top: 15px;
-    background-image: url("/Images/Tech.jpg");
+    background-image: url("Images/Tech.jpg");
     background-size: cover;
 }
 .dad #image2 {
     height: 100px;
     width: 130px;
     margin-top: 15px;
-    background-image: url("/Images/Adeventure gear.jpg");
+    background-image: url("Images/Adeventure gear.jpg");
     background-size: cover;
 }
 .dad #image3 {
     height: 100px;
     width: 130px;
     margin-top: 15px;
-    background-image: url("/Images/Unique finds.jpg");
+    background-image: url("Images/Unique finds.jpg");
     background-size: cover;
 }
 .dad #image4 {
     height: 100px;
     width: 130px;
     margin-top: 15px;
-    background-image: url("/Images/Health & wellness.jpg");
+    background-image: url("Images/Health & wellness.jpg");
     background-size: cover;
 }
 #adventure {
@@ -335,7 +335,7 @@ body {
     height: 250px;
     width: 270px;
     margin-top: 15px;
-    background-image: url("/Images/smartwatches.jpg");
+    background-image: url("Images/smartwatches.jpg");
     background-size: cover;
 }
 /*Box 7*/
@@ -343,7 +343,7 @@ body {
     height: 270px;
     width: 270px;
     margin-top: 15px;
-    background-image: url("/Images/players paradise.jpg");
+    background-image: url("Images/players paradise.jpg");
     background-size: cover;
 }
 /*Box 8*/
@@ -351,7 +351,7 @@ body {
     height: 270px;
     width: 270px;
     margin-top: 15px;
-    background-image: url("/Images/Laptops.jpg");
+    background-image: url("Images/Laptops.jpg");
     background-size: cover;
 }
 #see {
@@ -443,7 +443,7 @@ li {
 #logo {
     height: 68px;
     width: 76px;
-    background-image: url("/Images/amazon_logo.png");
+    background-image: url("Images/amazon_logo.png");
     background-size: contain;
     background-repeat: no-repeat;
     position: relative;
